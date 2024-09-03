@@ -4,7 +4,7 @@
 💫 About Me:
 
 
- 🔭 I’m currently working on **React Native project for a German company**
+ 🔭 I’m currently working on **React Native project**
 
 🌱 I’m currently learning **React Native and I want to learn a new Python framework: Django**
 
