@@ -10,17 +10,16 @@
 
 👯 I’m looking to collaborate on **some complex React Native project to expand my skills**
 
-👨‍💻 All of my projects are available at [damiano.eu.pythonanywhere.com](damiano.eu.pythonanywhere.com)
+👨‍💻 All of my projects are available at [https://damianman.github.io/Portfolio/](https://damianman.github.io/Portfolio/)
 
 💬 Ask me about **Python, NodeJs, React, React Native, MongoDb, Postgresql**
 
 📫 How to reach me **damianomanzillo@yahoo.com**
 
-📄 Know about my experiences [https://damiano.eu.pythonanywhere.com/static/images/resume.pdf](https://damiano.eu.pythonanywhere.com/static/images/resume.pdf)
+📄 Know about my experiences [https://damianman.github.io/Portfolio/assets/resume-BnyUAOeF.pdf](https://damianman.github.io/Portfolio/assets/resume-BnyUAOeF.pdf)
 
 ⚡ Fun fact **I transitioned from the world of pro football in to the dynamic landscape of technology**
 
-## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/damianomanzillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damianomanzillo" height="30" width="40" /></a>
