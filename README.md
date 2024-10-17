@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on **React Native project**
 
-🌱 I’m currently learning **React Native and I want to learn a new Python framework: Django**
+🌱 I’m currently learning **React Native and a new Python framework: Django**
 
 👯 I’m looking to collaborate on **some complex React Native project to expand my skills**
 
