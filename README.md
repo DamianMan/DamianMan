@@ -4,9 +4,9 @@
 💫 About Me:
 
 
- 🔭 I’m currently working on **React Native project**
+ 🔭 Now focused on **React Native project**
 
-🌱 I’m currently learning **React Native and a new Python framework: Django**
+🌱 I’m currently extending my **React Native** skills.
 
 👯 I’m looking to collaborate on **some complex React Native project to expand my skills**
 
