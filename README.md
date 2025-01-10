@@ -8,7 +8,7 @@
 
 🌱 I’m currently extending my **React Native** skills.
 
-👯 I’m looking to collaborate on **some complex React Native project to expand my skills**
+👯 I’m looking to collaborate on **some complex React, React Native project to expand my skills**
 
 👨‍💻 All of my projects are available at [https://damianman.github.io/portfolio/](https://damianman.github.io/portfolio/)
 
@@ -16,9 +16,6 @@
 
 📫 How to reach me **damianomanzillo@yahoo.com**
 
-📄 Know about my experiences [https://damianman.github.io/portfolio/assets/resume-BnyUAOeF.pdf](https://damianman.github.io/Portfolio/assets/resume-BnyUAOeF.pdf)
-
-⚡ Fun fact **I transitioned from the world of pro football in to the dynamic landscape of technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
